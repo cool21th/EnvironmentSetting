@@ -6,17 +6,17 @@ PyGMO (the Python Parallel Global Multiobjective Optimizer) is a scientific libr
 Conda is a good default choice in Linux and OSX.
 The pip packages are also available on Linux for those users who might prefer pip to conda, but they are not available on OSX.
 
-Conda
+#### Conda
 
     conda config --add channels conda-forge
     conda install pygmo
     
-Pip
+#### Pip
 
     pip install pygmo
 
 
-Download install 
+#### Download install 
   
     git clone https://github.com/esa/pagmo.git
     cd pagmo
